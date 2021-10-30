@@ -1,0 +1,24 @@
+[27-Oct-2021 16:51:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function update_meta() on null in /Users/alexanderperreira/Local Sites/ridetraxx/app/public/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php:285
+Stack trace:
+#0 /Users/alexanderperreira/Local Sites/ridetraxx/app/public/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php(166): ElementorPro\Modules\ThemeBuilder\Classes\Conditions_Manager->save_conditions(9, Array)
+#1 [internal function]: ElementorPro\Modules\ThemeBuilder\Classes\Conditions_Manager->ajax_save_theme_template_conditions(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#2 /Users/alexanderperreira/Local Sites/ridetraxx/app/public/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#3 /Users/alexanderperreira/Local Sites/ridetraxx/app/public/wp-includes/class-wp-hook.php(303): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('') in /Users/alexanderperreira/Local Sites/ridetraxx/app/public/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php on line 285
+[27-Oct-2021 20:11:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function update_meta() on null in /Users/alexanderperreira/Local Sites/ridetraxx/app/public/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php:285
+Stack trace:
+#0 /Users/alexanderperreira/Local Sites/ridetraxx/app/public/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php(166): ElementorPro\Modules\ThemeBuilder\Classes\Conditions_Manager->save_conditions(5, Array)
+#1 [internal function]: ElementorPro\Modules\ThemeBuilder\Classes\Conditions_Manager->ajax_save_theme_template_conditions(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#2 /Users/alexanderperreira/Local Sites/ridetraxx/app/public/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#3 /Users/alexanderperreira/Local Sites/ridetraxx/app/public/wp-includes/class-wp-hook.php(303): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('') in /Users/alexanderperreira/Local Sites/ridetraxx/app/public/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php on line 285
+[27-Oct-2021 21:56:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function update_meta() on bool in /Users/alexanderperreira/Local Sites/ridetraxx/app/public/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php:285
+Stack trace:
+#0 /Users/alexanderperreira/Local Sites/ridetraxx/app/public/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php(166): ElementorPro\Modules\ThemeBuilder\Classes\Conditions_Manager->save_conditions(NULL, Array)
+#1 [internal function]: ElementorPro\Modules\ThemeBuilder\Classes\Conditions_Manager->ajax_save_theme_template_conditions(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#2 /Users/alexanderperreira/Local Sites/ridetraxx/app/public/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#3 /Users/alexanderperreira/Local Sites/ridetraxx/app/public/wp-includes/class-wp-hook.php(303): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request( in /Users/alexanderperreira/Local Sites/ridetraxx/app/public/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php on line 285
+[28-Oct-2021 14:13:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function update_meta() on null in /Users/alexanderperreira/Local Sites/ridetraxx/app/public/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php:285
+Stack trace:
+#0 /Users/alexanderperreira/Local Sites/ridetraxx/app/public/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php(166): ElementorPro\Modules\ThemeBuilder\Classes\Conditions_Manager->save_conditions(5, Array)
+#1 [internal function]: ElementorPro\Modules\ThemeBuilder\Classes\Conditions_Manager->ajax_save_theme_template_conditions(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#2 /Users/alexanderperreira/Local Sites/ridetraxx/app/public/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#3 /Users/alexanderperreira/Local Sites/ridetraxx/app/public/wp-includes/class-wp-hook.php(303): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('') in /Users/alexanderperreira/Local Sites/ridetraxx/app/public/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php on line 285
