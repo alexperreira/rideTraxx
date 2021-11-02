@@ -1,0 +1,24 @@
+.container {
+    background-color: #fff;
+    width: 400px;
+    height: 150px;
+    display: inline-flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+button {
+	background-color: #ed1c24;
+	color: #fff;
+	border-radius: 25px;
+	border: none;
+	padding: 10px;
+}
+
+h4 {
+    margin-bottom: 5px;
+}
+
+p {
+    margin-top: 5px;
+}
